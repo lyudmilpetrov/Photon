@@ -1,5 +1,3 @@
-# the project demonstrates running geo-coding for free using open sorce Photon within your SQL Server
-
 # photon
 
 [![Continuous Integration](https://github.com/komoot/photon/workflows/Continuous%20Integration/badge.svg)](https://github.com/komoot/photon/actions)
