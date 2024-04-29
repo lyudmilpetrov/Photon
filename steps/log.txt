@@ -1,0 +1,91 @@
+[2024-01-13 19:59:04] Inputs - Country: Germany, State: , City: Berlin, Street: , PostCode: , Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Berlin,Germany
+[2024-01-13 19:59:04] Result - Latitude: 52.5170365, Longitude: 13.3888599
+[2024-01-13 20:00:17] Inputs - Country: Germany, State: , City: Berlin, Street: , PostCode: , Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Berlin,Germany
+[2024-01-13 20:00:17] Result - Latitude: 52.5170365, Longitude: 13.3888599
+[2024-01-13 20:04:51] Inputs - Country: Germany, State: , City: Berlin, Street: , PostCode: , Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Berlin,Germany
+[2024-01-13 20:04:51] Result - Latitude: 52.5170365, Longitude: 13.3888599
+[2024-01-13 21:26:29] Inputs - Country: USA, State: California, City: Los Angeles, Street: Sunset Blvd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-13 21:26:29] Result - Latitude: 34.0926493, Longitude: -118.280795
+[2024-01-13 21:26:31] Inputs - Country: USA, State: California, City: Los Angeles, Street: Sunset Blvd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-13 21:26:31] Result - Latitude: 34.0926493, Longitude: -118.280795
+[2024-01-13 21:56:12] Inputs - Country: USA, State: California, City: Los Angeles, Street: Sunset Blvd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-13 21:56:13] Result - Latitude: 34.0926493, Longitude: -118.280795
+[2024-01-13 21:56:30] Inputs - Country: USA, State: California, City: dsdsd, Street: dasdasdasd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=dasdasdasd,dsdsd,California,90026,USA
+[2024-01-13 21:56:30] No results found at http://localhost:2322/api?q=dasdasdasd,dsdsd,California,90026,USA
+[2024-01-13 21:57:24] Inputs - Country: USA, State: California, City: dsdsd, Street: dasdasdasd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=dasdasdasd,dsdsd,California,90026,USA
+[2024-01-13 21:57:28] Unable to connect to the remote server for http://localhost:2322/api?q=dasdasdasd,dsdsd,California,90026,USA
+[2024-01-13 21:57:37] Inputs - Country: USA, State: California, City: Los Angeles, Street: Sunset Blvd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-13 21:57:41] Unable to connect to the remote server for http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-15 09:23:25] Inputs - Country: USA, State: California, City: Los Angeles, Street: Sunset Blvd, PostCode: 90026, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=Sunset+Blvd,Los+Angeles,California,90026,USA
+[2024-01-15 09:23:28] Result - Latitude: 34.0926493, Longitude: -118.280795
+[2024-01-23 20:48:28] Inputs - Country: USA, State: New Jersey, City: New Jersey, Street: 412 Asbury Avenue, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Avenue,New+Jersey,New+Jersey,USA
+[2024-01-23 20:48:33] Result - Latitude: 40.2161279, Longitude: -74.014209
+[2024-01-23 20:49:13] Inputs - Country: USA, State: New Jersey, City: New Jersey, Street: 1319 Asbury Park, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=1319+Asbury+Park,New+Jersey,New+Jersey,USA
+[2024-01-23 20:49:15] Result - Latitude: 40.2203907, Longitude: -74.0120817
+[2024-01-23 20:55:24] Inputs - Country: USA, State: New Jersey, City: Ocean City, Street: 412 Asbury Ave, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Ave,Ocean+City,New+Jersey,08226,USA
+[2024-01-23 20:55:25] Result - Latitude: 39.2901359, Longitude: -74.5619829
+[2024-01-23 21:10:05] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Ave, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Ave,Ocean+City,New+Jersey,08226,United+States
+[2024-01-23 21:10:05] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 21:18:20] URL: http://localhost:2322/api?q=412+Asbury+Ave,Ocean+City,New+Jersey,08226,United+States
+[2024-01-23 21:18:21] No matching results found
+[2024-01-23 21:19:28] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Ave, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Ave,Ocean+City,New+Jersey,08226,United+States
+[2024-01-23 21:19:28] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 21:21:58] URL: http://localhost:2322/api?q=412+Asbury+Ave,Ocean+City,New+Jersey,08226,United+States
+[2024-01-23 21:21:59] No matching results found
+[2024-01-23 21:23:42] URL: http://localhost:2322/api?q=Asbury+Ave,Ocean+City,New+Jersey,08226,United+States
+[2024-01-23 21:23:42] Matching result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 21:32:26] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&limit=1
+[2024-01-23 21:32:27] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 21:58:17] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&limit=1
+[2024-01-23 21:58:18] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 21:58:34] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&limit=1
+[2024-01-23 21:58:34] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 22:02:06] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:25:47] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States&limit=1
+[2024-01-23 22:25:48] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 22:25:48] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:31:15] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States&limit=1000
+[2024-01-23 22:31:15] Result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 22:31:16] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:50:28] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:50:29] No matching results found
+[2024-01-23 22:50:29] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:51:03] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:51:03] Matching result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 22:51:03] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:51:12] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:51:12] Matching result - Latitude: 39.2788683, Longitude: -74.57578374723808
+[2024-01-23 22:51:13] Inputs - Country: United States, State: New Jersey, City: Ocean City, Street: 412 Asbury Avenue, PostCode: 08226, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Avenue,Ocean+City,New+Jersey,08226,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 22:51:27] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:51:28] Matching result - Latitude: 39.279650450000005, Longitude: -74.56783201051158
+[2024-01-23 22:51:36] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:51:37] Matching result - Latitude: 39.279650450000005, Longitude: -74.56783201051158
+[2024-01-23 22:53:45] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:53:46] Matching result - Latitude: 39.279650450000005, Longitude: -74.56783201051158
+[2024-01-23 22:54:13] URL: http://localhost:2322/api?q=412 Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:54:13] No matching results found
+[2024-01-23 22:54:21] URL: http://localhost:2322/api?q=Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:54:22] Matching result - Latitude: 39.25712, Longitude: -74.6047
+[2024-01-23 22:54:33] URL: http://localhost:2322/api?q=Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:54:33] Matching result - Latitude: 39.25712, Longitude: -74.6047
+[2024-01-23 22:54:51] URL: http://localhost:2322/api?q=Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 22:54:51] Matching result - Latitude: 39.25712, Longitude: -74.6047
+[2024-01-23 23:04:44] URL: http://localhost:2322/api?q=Asbury Avenue,Ocean City,New Jersey,08226,United States
+[2024-01-23 23:04:45] Matching result - Latitude: 39.281973, Longitude: -74.572366
+[2024-01-23 23:07:31] URL: http://localhost:2322/api?q=Asbury Avenue,Ocean City,New Jersey,08226,United States&limit=1000
+[2024-01-23 23:07:31] Matching result - Latitude: 39.281973, Longitude: -74.572366
+[2024-01-23 23:12:41] URL: http://localhost:2322/api?q=W La Salle St,Tampa,Florida,33607,United States&limit=1000
+[2024-01-23 23:12:41] No matching results found
+[2024-01-23 23:12:54] URL: http://localhost:2322/api?q=W La Salle,Tampa,Florida,33607,United States&limit=1000
+[2024-01-23 23:12:54] No matching results found
+[2024-01-23 23:13:00] URL: http://localhost:2322/api?q=La Salle,Tampa,Florida,33607,United States&limit=1000
+[2024-01-23 23:13:00] No matching results found
+[2024-01-23 23:13:34] URL: http://localhost:2322/api?q=W La Salle St,Tampa,Florida,33607,United States&limit=1000
+[2024-01-23 23:13:35] No matching results found
+[2024-01-23 23:13:35] Inputs - Country: United States, State: Florida, City: Tampa, Street: 1112 W La Salle St, PostCode: 33607, Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=1112+W+La+Salle+St,Tampa,Florida,33607,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-23 23:16:53] Inputs - Country: United States, State: Florida, City: Tampa, Street: 1112 W La Salle St, PostCode: 33607, Email: , URL: https://nominatim.openstreetmap.org/search?q=1112+W+La+Salle+St,Tampa,Florida,33607,United+States&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=&dedupe=0
+[2024-01-29 23:26:36] Inputs - Country: USA, State: NJ, City: Asbury Park, Street: 412 Asbury Ave, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Ave,Asbury+Park,NJ,USA&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-29 23:27:42] Inputs - Country: USA, State: NJ, City: Asbury Park, Street: 412 Asbury Ave, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Ave,Asbury+Park,NJ,USA&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-29 23:27:44] Inputs - Country: USA, State: NJ, City: Asbury Park, Street: 1319 Asbury Park, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=1319+Asbury+Park,Asbury+Park,NJ,USA&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-29 23:36:21] Inputs - Country: USA, State: NJ, City: Asbury Park, Street: 412 Asbury Ave, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=412+Asbury+Ave,Asbury+Park,NJ,USA&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0
+[2024-01-29 23:36:23] Inputs - Country: USA, State: NJ, City: Asbury Park, Street: 1319 Asbury Park, PostCode: , Email: ljudmilpetrov79@gmail.com, URL: https://nominatim.openstreetmap.org/search?q=1319+Asbury+Park,Asbury+Park,NJ,USA&format=json&addressdetails=0&extratags=0&limit=10&namedetails=0&bounded=0&email=ljudmilpetrov79@gmail.com&dedupe=0

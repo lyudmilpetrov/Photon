@@ -18,11 +18,13 @@ function Get-CoordinatesFromAddress {
 
     # Concatenate address
     $address = Concatenate-Address -country $country -state $state -city $city -street $street -postCode $postCode
+    # https://nominatim.openstreetmap.org/search.php?street=412%20Asbury%20Avenue&city=Ocean%20City&state=New%20Jersey&country=United%20States&postalcode=08226&polygon_geojson=1&format=jsonv2
+
     $baseURL = "http://localhost:2322/api?q="
-    $url = $baseURL + $address
+    $url = $baseURL + $address + "&limit=1000"
     # Log input parameters
     $inputParams = "Inputs - Country: $country, State: $state, City: $city, Street: $street, PostCode: $postCode, Email: $email, URL: $url"
-    #Write-Log -Message $inputParams
+    Write-Log -Message $inputParams
     try {
         $response = Invoke-WebRequest -Uri $url -UseBasicParsing
         if ($response.StatusCode -eq 200) {
@@ -33,21 +35,21 @@ function Get-CoordinatesFromAddress {
                 $lon = $firstFeature.geometry.coordinates[0]
                 # Log result
                 $result = "Latitude: $lat, Longitude: $lon"
-                #Write-Log -Message "Result - $result"
+                Write-Log -Message "Result - $result"
                 return $result
             }
             else {
-                #Write-Log -Message "No results found at $url"
+                Write-Log -Message "No results found at $url"
                 return "No results found at $url"
             }
         }
         else {
-            #Write-Log -Message "Error: Unable to retrieve coordinates at $url"
+            Write-Log -Message "Error: Unable to retrieve coordinates at $url"
             return "Error: Unable to retrieve coordinates at $url"
         }
     }
     catch {
-        #Write-Log -Message "$($_.Exception.Message) for $url"
+        Write-Log -Message "$($_.Exception.Message) for $url"
         return "$($_.Exception.Message) for $url"
     }
 }
@@ -63,7 +65,8 @@ function Concatenate-Address {
 
     # Build address string
     $addressParts = @($street, $city, $state, $postCode, $country)
-    $address = ($addressParts -ne '' -join ',').Replace(' ', '+')
+    $address = ($addressParts -ne '' -join ',')
+    #.Replace(' ', '+')
     return $address
 }
 
